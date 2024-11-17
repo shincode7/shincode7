@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shincode7
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning PyTorch
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
